@@ -2,8 +2,8 @@
 	"name": "sevenpercent/phar-compiler",
 	"authors": [
 		{
-			"name": "Steven Hilder",
-			"email": "steven.hilder@sevenpercent.solutions"
+			"name": "SevenPercent Developer",
+			"email": "dev7pc@sevenpercent.solutions"
 		}
 	],
 	"autoload": {
@@ -26,7 +26,7 @@
 	"require-dev": {
 	},
 	"support": {
-		"email": "steven.hilder@sevenpercent.solutions"
+		"email": "dev7pc@sevenpercent.solutions"
 	},
 	"type": "library"
 }
