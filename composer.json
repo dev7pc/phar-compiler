@@ -1,0 +1,34 @@
+{
+	"name": "sevenpercent/phar-compiler",
+	"authors": [
+		{
+			"name": "Steven Hilder",
+			"email": "steven.hilder@sevenpercent.solutions"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"SevenPercent\\": "src/"
+		}
+	},
+	"description": "Compiles a PHP project into a self-executing Phar archive",
+	"license": "Unlicense",
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://packages.sevenpercent.solutions/"
+		}
+	],
+	"require": {
+		"php": "^7.0",
+		"ext-phar": "*"
+	},
+	"require-dev": {
+		"php": "^7.0",
+		"ext-phar": "*"
+	},
+	"support": {
+		"email": "steven.hilder@sevenpercent.solutions"
+	},
+	"type": "library"
+}
